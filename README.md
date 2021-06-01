@@ -1,5 +1,7 @@
 # Fylo-Landing-Page
 
+Live Site: https://jonkohjj.github.io/Fylo-Landing-Page/
+
 I used pure HTML and CSS to create this landing page / website and as always, I implemented responsive layouts to be used on mobile, tablet or desktop view. The design was taken from frontendmentor.io and then built from scratch.
 
 Concepts learnt -
