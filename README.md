@@ -1,4 +1,4 @@
-# Fylo-Landing-Page
+# Fylo-Landing-Page - software security website clone, design found on frontendmentor.io
 
 Live Site: https://jonkohjj.github.io/Fylo-Landing-Page/
 
