@@ -2,7 +2,7 @@
 
 Live Site: https://jonkohjj.github.io/Fylo-Landing-Page/
 
-I used pure HTML and CSS to create this landing page / website and as always, I implemented responsive layouts to be used on mobile, tablet or desktop view. The design was taken from frontendmentor.io and then built from scratch.
+I used pure HTML and CSS to create this landing page / website and as always, I implemented responsive layouts to be used on mobile, tablet or desktop view. The design was taken from frontendmentor.io (https://www.frontendmentor.io/challenges/fylo-dark-theme-landing-page-5ca5f2d21e82137ec91a50fd) and then built from scratch.
 
 Concepts learnt -
 1. Negative margins
