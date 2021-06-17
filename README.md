@@ -27,5 +27,5 @@ Users should be able to:
 
 ### Continued development
 
-1. Integrate a toggle between dark and light mode
-2. To implement SASS in the next project
+1. Integrate a toggle between dark and light mode * DONE - REST Countries API project
+2. To implement SASS in the next project * DONE - Room Homepage project
