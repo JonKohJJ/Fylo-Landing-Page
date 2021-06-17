@@ -27,5 +27,5 @@ Users should be able to:
 
 ### Continued development
 
-1. Integrate a toggle between dark and light mode * DONE - REST Countries API project
-2. To implement SASS in the next project * DONE - Room Homepage project
+1. Integrate a toggle between dark and light mode * DONE - [REST Countries API project](https://github.com/JonKohJJ/REST-Countries-API-with-color-theme-switcher)
+2. To implement SASS in the next project * DONE - [Room Homepage project](https://github.com/JonKohJJ/Room-Landing-Page)
